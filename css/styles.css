@@ -17,7 +17,7 @@ body {
 }
 
 .navbar {
-    background-color: #081D2E;
+    background-color: #072448;
 }
 
 .card-body {
@@ -30,23 +30,9 @@ body {
 	width: 100%;
 	padding: 25px 0;
 	text-align: center;
-    background-color:#0C1D2E;
+    background-color:#072448;
 }
 
-.btn-linkedin {
-    background: #007bb6;
-    border-color: #007bb6;
-}
-
-.btn-github {
-    background: #23282D;
-    border-color: #23282D;
-}
-
-.btn-email {
-    background: #1DA1F2;
-    border-color: #1DA1F2;
-}
 
 .link_button {
   position: absolute;
@@ -63,15 +49,8 @@ body {
   color: #0d2a47;
   font-weight: bold;
   display: inline;
-  background-image: linear-gradient(#fff 60%, #48c232 55%);
+  background-image: linear-gradient(#fff 60%, #ffcb00 55%);
 
-}
-
-.link:hover {
-    color: #0d2a47;
-    text-decoration:none;
-    display: inline;
-    background-image: linear-gradient(#fff 60%, #f6d912 55%);
 }
 
 
@@ -86,7 +65,7 @@ body {
 .projectFilter a.current {
     font-weight: bold;
     display: inline;
-    background-image: linear-gradient(#fff 60%, #48c232 55%);
+    background-image: linear-gradient(#fff 60%, #ff6150 55%);
 }
 
 .isotope-item {
@@ -114,14 +93,14 @@ body {
 }
 .icon {
 	text-decoration: none;
-	color: #0d2a47;
+	color: #072448;
 }
 .icon i {
 	transition: all 0.3s;
 }
 .icon:hover i {
 	transform: scale(1.15);
-	color: #48c232;
+	color: #54d2d2;
 }
 .card {
     transition: all 0.3s;
