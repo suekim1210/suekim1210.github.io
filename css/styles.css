@@ -91,3 +91,20 @@ body {
     -moz-transition-property: -moz-transform, opacity;
     transition-property: transform, opacity;
 }
+.icon {
+	text-decoration: none;
+	color: #0d2a47;
+}	
+.icon i {
+	transition: all 0.3s;
+}
+.icon:hover i{
+	transform: scale(1.2);
+	color: #48c232;
+}
+.card {
+    transition: all 0.3s;
+}
+.card:hover {
+    transform: scale(1.05);
+}
