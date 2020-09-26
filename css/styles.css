@@ -60,12 +60,14 @@ body {
   font-size: x-large;
   margin-right: 5px;
   margin-left: 5px;
-  color:#081D2E;
+  color: #081D2E;
   text-decoration:none;
 }
 
 .projectFilter a.current {
     font-weight: bold;
+    display: inline;
+    background-image: linear-gradient(#fff 60%, #48c232 55%);
 }
 
 .isotope-item {
