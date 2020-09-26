@@ -98,7 +98,7 @@ body {
 .icon i {
 	transition: all 0.3s;
 }
-.icon:hover i{
+.icon:hover i {
 	transform: scale(1.2);
 	color: #48c232;
 }
