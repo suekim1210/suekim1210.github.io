@@ -50,6 +50,7 @@ body {
   font-weight: bold;
   display: inline;
   background-image: linear-gradient(#fff 60%, #ffcb00 55%);
+  text-decoration:none;
 
 }
 
