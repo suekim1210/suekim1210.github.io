@@ -94,11 +94,11 @@ body {
 .icon {
 	text-decoration: none;
 	color: #0d2a47;
-}	
+}
 .icon i {
 	transition: all 0.3s;
 }
 .icon:hover i {
-	transform: scale(1.2);
+	transform: scale(1.15);
 	color: #48c232;
 }
