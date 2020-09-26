@@ -50,11 +50,30 @@ body {
 
 .link_button {
   position: absolute;
-  bottom: 15pt;
-  right: 0;
-  left: 0;
+  top: auto;
+  bottom: auto;
+  right: 5px;
+  left: 5px;
   margin: auto;
+  text-decoration:none;
+
 }
+
+.link {
+  color: #0d2a47;
+  font-weight: bold;
+  display: inline;
+  background-image: linear-gradient(#fff 60%, #48c232 55%);
+
+}
+
+.link:hover {
+    color: #0d2a47;
+    text-decoration:none;
+    display: inline;
+    background-image: linear-gradient(#fff 60%, #f6d912 55%);
+}
+
 
 .projectFilter a {
   font-size: x-large;
