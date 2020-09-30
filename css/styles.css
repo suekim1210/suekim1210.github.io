@@ -1,9 +1,5 @@
 body {
   padding-top: 54px;
-
-
-
-
 }
 
 @media (min-width: 992px) {
@@ -26,7 +22,7 @@ body {
 }
 
 .navbar {
-    background-color: #272640;
+  background-color: #272640;
 }
 
 .card-body {
@@ -38,10 +34,8 @@ body {
 .footer-bottom{
 	width: 100%;
 	padding: 25px 0;
-	text-align: center;
-    background-color:#161748;
+	background-color:#272640;
 }
-
 
 .link_button {
   position: absolute;
@@ -57,7 +51,7 @@ body {
   color: #0d2a47;
   font-weight: bold;
   display: inline;
-  background-image: linear-gradient(#fff 60%, #ffcb00 55%);
+  background-image: linear-gradient(#fff 60%, #FFC857 55%);
 
 }
 
@@ -77,7 +71,25 @@ body {
 .projectFilter a.current {
     font-weight: bold;
     display: inline;
-    background-image: linear-gradient(#fff 60%, #f95d9b 55%);
+    background-image: linear-gradient(#fff 60%, #119DA4 55%);
+}
+
+.icon {
+	text-decoration: none;
+	color: #4B3F72;
+}
+.icon i {
+	transition: all 0.3s;
+}
+.icon:hover i {
+	transform: scale(1.15);
+	color: #54d2d2;
+}
+.card {
+    transition: all 0.3s;
+}
+.card:hover {
+    transform: scale(1.055);
 }
 
 .isotope-item {
@@ -102,21 +114,4 @@ body {
     -webkit-transition-property: -webkit-transform, opacity;
     -moz-transition-property: -moz-transform, opacity;
     transition-property: transform, opacity;
-}
-.icon {
-	text-decoration: none;
-	color: #161748;
-}
-.icon i {
-	transition: all 0.3s;
-}
-.icon:hover i {
-	transform: scale(1.15);
-	color: #54d2d2;
-}
-.card {
-    transition: all 0.3s;
-}
-.card:hover {
-    transform: scale(1.055);
 }
