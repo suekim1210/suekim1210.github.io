@@ -71,7 +71,7 @@ body {
 .projectFilter a.current {
     font-weight: bold;
     display: inline;
-    background-image: linear-gradient(#fff 60%, #119DA4 55%);
+    background-image: linear-gradient(#fff 60%, #DB3A34 55%);
 }
 
 .icon {
