@@ -51,7 +51,7 @@ body {
   color: #0d2a47;
   font-weight: bold;
   display: inline;
-  background-image: linear-gradient(#fff 60%, #FFC857 55%);
+  background-image: linear-gradient(#fff 60%, #ffd868 55%);
 
 }
 
@@ -71,12 +71,12 @@ body {
 .projectFilter a.current {
     font-weight: bold;
     display: inline;
-    background-image: linear-gradient(#fff 60%, #DB3A34 55%);
+    background-image: linear-gradient(#fff 60%, #ff1e56 55%);
 }
 
 .icon {
 	text-decoration: none;
-	color: #4B3F72;
+	color: #002A42;
 }
 .icon i {
 	transition: all 0.3s;
