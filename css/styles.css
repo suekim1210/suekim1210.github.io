@@ -22,7 +22,7 @@ body {
 }
 
 .navbar {
-  background-color: #272640;
+  background-color: #533A71;
 }
 
 .card-body {
@@ -34,7 +34,7 @@ body {
 .footer-bottom{
 	width: 100%;
 	padding: 25px 0;
-	background-color:#272640;
+	background-color:#533A71;
 }
 
 .link_button {
@@ -51,7 +51,7 @@ body {
   color: #0d2a47;
   font-weight: bold;
   display: inline;
-  background-image: linear-gradient(#fff 60%, #ffd868 55%);
+  background-image: linear-gradient(#fff 60%, #50C5B7 55%);
 
 }
 
@@ -71,12 +71,12 @@ body {
 .projectFilter a.current {
     font-weight: bold;
     display: inline;
-    background-image: linear-gradient(#fff 60%, #ff1e56 55%);
+    background-image: linear-gradient(#fff 60%, #F0F465 55%);
 }
 
 .icon {
 	text-decoration: none;
-	color: #002A42;
+	color: #6184D8;
 }
 .icon i {
 	transition: all 0.3s;
